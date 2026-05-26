@@ -107,25 +107,17 @@
 
 ---
 
-````md
-
 ## 📈 Currently Learning
 
 ```python
-
 Learning = [
-
     "Azure Data Factory",
-
     "Azure Databricks",
-
     "Advanced PySpark",
-
     "Data Engineering Best Practices",
-
     "Cloud Data Pipelines"
-
 ]
+```
 
 
 🤝 Connect With Me
