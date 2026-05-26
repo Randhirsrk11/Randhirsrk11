@@ -133,6 +133,16 @@ https://github.com/Randhirsrk11
 ⚡ Fun Fact
 I enjoy solving real-world data problems, automating workflows, and continuously learning modern cloud data technologies 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight)
+## 🚀 Profile Views & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Randhirsrk11&color=blue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💡 Daily Motivation
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Big+Data+Developer;PySpark+%7C+Hive+%7C+SQL;Learning+Azure+Data+Engineering;Building+Scalable+Data+Pipelines" />
+</p>
