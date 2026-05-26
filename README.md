@@ -133,12 +133,6 @@ https://github.com/Randhirsrk11
 ⚡ Fun Fact
 I enjoy solving real-world data problems, automating workflows, and continuously learning modern cloud data technologies 🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&theme=tokyonight)
