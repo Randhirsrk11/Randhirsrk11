@@ -154,10 +154,9 @@ I enjoy solving real-world data problems, automating workflows, and continuously
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=onedark&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
