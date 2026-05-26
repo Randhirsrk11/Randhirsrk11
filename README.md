@@ -148,11 +148,10 @@ I enjoy solving real-world data problems, automating workflows, and continuously
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight" height="170"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&theme=tokyonight" height="170"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&theme=tokyonight"/>
 </p>
-
 ---
 ## 🏆 GitHub Trophies
 
