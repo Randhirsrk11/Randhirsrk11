@@ -160,3 +160,8 @@ I enjoy solving real-world data problems, automating workflows, and continuously
   <img src="https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Randhirsrk11&theme=tokyonight&hide_border=true" />
+</p>
