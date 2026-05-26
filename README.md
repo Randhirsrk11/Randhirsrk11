@@ -137,8 +137,6 @@ I enjoy solving real-world data problems, automating workflows, and continuously
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Randhirsrk11&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 💡 Daily Motivation
