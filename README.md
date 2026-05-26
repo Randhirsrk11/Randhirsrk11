@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randhir Kumar Jha</h1>
-<h3 align="center">Big Data Developer | Hadoop Ecosystem | PySpark | Hive | Azure Data Engineering Learner</h3>
+<h3 align="center">Big Data Developer | Hadoop Ecosystem | PySpark | Hive | SQL | Azure Data Engineering Learner</h3>
 
 ---
 
