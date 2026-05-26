@@ -148,9 +148,9 @@ I enjoy solving real-world data problems, automating workflows, and continuously
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Randhirsrk11&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Randhirsrk11&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -158,5 +158,6 @@ I enjoy solving real-world data problems, automating workflows, and continuously
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Randhirsrk11&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
+
